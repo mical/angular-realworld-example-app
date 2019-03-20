@@ -1,4 +1,4 @@
-# ![Angular 2 Example App](logo.png)
+# ![Angular 2 Example App bec](logo.png)
 
 > ### Angular 4 codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API. 
 
